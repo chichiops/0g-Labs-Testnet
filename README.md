@@ -43,3 +43,11 @@ MIN_BALANCE_FOR_SWAP=0.1
 ```bash
 node index.js
 ```
+
+**Notes**
+
+- The bot will automatically distribute transactions over the specified time period
+
+- If no time period is specified, random delays between 30s and 5min will be used
+
+- The bot requires a minimum token balance (configurable in .env) to perform swaps
