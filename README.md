@@ -2,6 +2,12 @@
 
 A bot for automated token swapping on 0G-Newton-Testnet with multi-wallet support.
 
+> Faucet: https://hub.0g.ai/faucet
+> 
+> Swap: https://hub.0g.ai/swap
+> 
+> Upload File: https://storagescan-newton.0g.ai/tool
+> 
 # Features
 
 - ✅ Support for multiple private keys/wallets
